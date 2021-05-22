@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my profile 👋</h1>
-<h3 align="center">I am Manoj, CS Undergrad at NIT, Warangal</h3>
+<h1 align="center">:octocat: Hey! I'm Manoj👋</h1>
+<h3 align="center">CS Undergrad, from NIT, Warangal</h3>
 <h4 align="center">Visit my <a href="manojb-eresume.herokuapp.com">personal webpage</a> to know more about me and my work</h4>
 <hr>
   
